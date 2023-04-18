@@ -1,0 +1,13 @@
+body {
+    align-items: center;
+}
+
+#clock {
+    height: 40%;
+    width: 100%;
+    font-size: 1000%;
+    word-wrap: normal;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 35px;
+}
